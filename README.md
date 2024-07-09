@@ -1,5 +1,6 @@
 # Keeper Frontend Clone
 ### Practice project
+#### Go to the link in About section above to see the live website
 
 1. download the zip file
 2. open in any code editor you used such as VS code
