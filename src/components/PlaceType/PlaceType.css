@@ -1,0 +1,54 @@
+.placetype-div {
+    border-top: 1px solid var(--grey);
+    padding: 1rem 3rem;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    overflow-x: auto;
+}
+
+.link-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-right: 1rem;
+    opacity: 0.5;
+    border-bottom: 2px solid var(--white);
+    min-width: 85px;
+}
+
+.link-div:hover {
+    opacity: 1;
+    border-bottom: 2px solid grey;
+    transition: all 0.3s;
+}
+
+.link-img {
+    width: 1.5rem;
+    height: 1.5rem;
+    object-fit: contain;
+}
+
+.link-label {
+    font-size: 0.7rem;
+    font-family: 600;
+    color: var(--font-grey);
+}
+
+.selected-palace {
+    opacity: 1;
+    border-bottom: 2px solid var(--black);
+    transition: all 0.3s;
+    cursor: pointer;
+}
+.selected-label{
+    color: var(--black);
+}
+
+@media only screen and (max-width: 800px){
+    .placetype-div {
+        padding: 0.5rem;
+        padding-top: 1.5rem;
+    }
+}
