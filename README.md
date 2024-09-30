@@ -1,17 +1,13 @@
 # Airbnb Frontend Clone
 
-#### Go to the link in About section above to see the live website
-
 ![Screenshot 2024-07-09 195630](https://github.com/bashirafarhin/airbnb_frontend_clone/assets/97461439/de1c7e79-8db1-4d18-a204-289a24b77a74)
 
 ## Overview
-This project is a frontend clone of the popular Airbnb website, created using HTML, CSS, JavaScript, and React. It replicates the design and some core functionalities of the Airbnb platform, such as browsing listings, viewing details, and responsive design.
+This project is a frontend clone of the popular Airbnb website, created using HTML, CSS, JavaScript, and React. It replicates the design of the Airbnb platform such as responsive design.
 
 ## Features
 1. Responsive design for different screen sizes
-2. Interactive UI with search and filter functionalities
-3. Dynamic data rendering using React components
-4. Clean and modular code structure
+2. Clean and modular code structure
 
 ## Technologies Used
 1. HTML5: Markup language for structuring the content
