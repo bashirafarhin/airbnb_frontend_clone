@@ -18,7 +18,7 @@ This project is a frontend clone of the popular Airbnb website, created using HT
 ## Installation
 To run this project locally, follow these steps:
 1. Clone the repository:
- `git clone https://github.com/bashirafarhin/airbnb-frontend-clone.git`
+ `git clone https://github.com/bashirafarhin/airbnb_frontend_clone.git`
 3. Navigate to the project folder:
   `cd airbnb-frontend-clone`
 5. npm install
