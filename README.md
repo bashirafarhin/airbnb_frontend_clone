@@ -25,4 +25,4 @@ To run this project locally, follow these steps:
    `npm install`
 7. npm run dev
    `npm start`
-9. The project will run locally on `http://localhost:3000`.
+9. The project will run locally on `http://localhost:5173`.
